@@ -1,6 +1,6 @@
 # Policy Gradient Methods in Reinforcement Learning
 
-This is a report on the use of policy gradient methods in Reinforcement Learning. The focus of this report is on the experimental comparison between $3$ types of Actor-Critic methods. This investigation mainly revolves around the effect of the eligibility traces on Actor-Critic methods. These methods are the followings:
+This is a report on the use of policy gradient methods in Reinforcement Learning. The focus of this report is on the experimental comparison between 3 types of Actor-Critic methods. This investigation mainly revolves around the effect of the eligibility traces on Actor-Critic methods. These methods are the followings:
 
 1.   Actor-Critic with Eligibility Traces
 2.   Actor-Critic with Eligibility Traces only on the Critic but not the Actor
