@@ -8,4 +8,4 @@ This is a report on the use of policy gradient methods in Reinforcement Learning
 
 The experiments are carried on the [FrozenLake](https://gym.openai.com/envs/FrozenLake-v0/) environment.
 
-* This entire report was done using Google Colaboratory and you can view the ipython notebook [here](https://drive.google.com/file/d/1QxCC7fd5SI6nIjHU87nHTJGHHxP8PBzv/view?usp=sharing).
+* This entire report was done using Google Colaboratory and you can view the ipython notebook [here](https://github.com/rezazzr/policy_gradient_reinforcement_learning/blob/master/policy_gradient_traces.ipynb).
